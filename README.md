@@ -12,11 +12,15 @@ A bit easier here.
 
 Conflict!!
 
-<<<<<<< HEAD
 adding a branch
-=======
+
 Branch resolution.
 
 add branch
+<<<<<<< HEAD
 >>>>>>> 14ce532bfac5d7541333069b052479936aca1f63
 >>>>>>> c3917e96bf2cd751f5740e0a6211dd39d0754057
+=======
+
+Cleaning up
+>>>>>>> newbranch
