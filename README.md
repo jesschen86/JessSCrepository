@@ -8,3 +8,5 @@ You can see this, yes?
 A bit easier here.
 
 Conflict!!
+
+Branch resolution.
